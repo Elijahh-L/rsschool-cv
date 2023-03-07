@@ -1,7 +1,7 @@
 # Ilia Lazarev
 ---
 ## Contacts
-+ Location: Irkutsk, Russia
++ Location: Irkutsk, Russian Federation
 + Phone: +7(924)-616-53-19
 + Email: llawyer.est@yandex.ru
 + GitHub: https://github.com/Elijahh-L
