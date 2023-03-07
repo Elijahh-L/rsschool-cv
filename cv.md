@@ -23,4 +23,4 @@ let result = sum(1, 2)
 ## Education
 - All-Russian State University of Justice
 ## English
-###### B1-B2
+###### B1-B2(Intermediate/Upper-intermediate)
